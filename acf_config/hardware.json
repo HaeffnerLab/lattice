@@ -1,0 +1,70 @@
+{
+
+"ttl": [
+  {
+    "name": "ttl_pmt_input",
+    "channel": 0
+  },
+  {
+    "name": "ttl_awg_trigger",
+    "channel": 7
+  },
+  {
+    "name": "ttl_timetagger_trigger",
+    "channel": 8
+  },
+  {
+    "name": "ttl_blue_pis",
+    "channel": 4
+  },
+  {
+    "name": "ttl_flip_mirror",
+    "channel": 5
+  }
+],
+
+"dds": [
+  {
+    "name": "dds_397_dp",
+    "board": 1,
+    "channel": 0
+  },
+  {
+    "name": "dds_866_dp",
+    "board": 1,
+    "channel": 1
+  },
+  {
+    "name": "dds_866_addressing",
+    "board": 1,
+    "channel": 2
+  },
+  {
+    "name": "dds_397_far_detuned",
+    "board": 1,
+    "channel": 3
+  },
+  {
+    "name": "dds_729_sp",
+    "board": 2,
+    "channel": 0
+  },
+  {
+    "name": "dds_729_dp",
+    "board": 2,
+    "channel": 1
+  },
+  {
+    "name": "dds_854_dp",
+    "board": 2,
+    "channel": 2
+  },
+  {
+    "name": "dds_729_sp_aux",
+    "board": 0,
+    "channel": 2
+  }
+]
+
+}
+
